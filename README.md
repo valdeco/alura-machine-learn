@@ -1,2 +1,2 @@
-# alura-machine-learn
+# alura-machine-learning
 Curso de machine learn do Alura
