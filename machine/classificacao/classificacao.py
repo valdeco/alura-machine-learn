@@ -3,11 +3,11 @@ porco1 = 	[1, 1, 0]
 porco2 = 	[1, 1, 0]
 porco3 = 	[1, 1, 0]
 
-cachorro1 = [1, 1, 1]
-cachorro2 = [0, 1, 1]
-cachorro3 = [0, 1, 1]
+cachorro4 = [1, 1, 1]
+cachorro5 = [0, 1, 1]
+cachorro6 = [0, 1, 1]
 
-dados = [porco1, porco2, porco3, cachorro1, cachorro2, cachorro3]
+dados = [porco1, porco2, porco3, cachorro4, cachorro5, cachorro6]
 
 # 1 = porco | -1 = cachorro
 marcacoes = [1, 1, 1, -1, -1, -1]
@@ -19,7 +19,7 @@ modelo.fit (dados, marcacoes)
 
 misterioso1 = [1, 1, 1]
 misterioso2 = [1, 0, 0]
-misterioso3 = [1, 0, 1]
+misterioso3 = [0, 0, 1]
 
 testes = [misterioso1, misterioso2, misterioso3]
 
