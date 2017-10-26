@@ -23,13 +23,3 @@ marcacoes_teste = [-1, 1, -1]
 resultado = modelo.predict(teste)
 print (resultado)
 
-# #chamada para a biblioteca de machine learn
-# from sklearn.naive_bayes import MultinomialNB
-
-# modelo = MultinomialNB()
-
-# # .fit = treinar
-# modelo.fit (dados, marcacoes)
-
-# # mostrar o resultado da premeditação do resultado
-# print(modelo.predict(teste))
