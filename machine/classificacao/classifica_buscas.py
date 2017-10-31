@@ -1,7 +1,7 @@
 from collections import Counter
 import pandas as pd
 
-df = pd.read_csv('busca.csv')
+df = pd.read_csv('busca2.csv')
 
 X_df = df[['home','busca', 'logado']]
 Y_df = df['comprou']
